@@ -1,0 +1,1 @@
+1903270000190327103232|1|{"shopId": "91649","classficationId": "65b59257-61c8-11e9-be9b-000c29697fc7","regionId": "340400","goodsPartition": 340400,"goodsName": "中杯可乐加一元换奶茶","stock": 8,"minSaleNum": 1,"maxSaleNum": 10,"pdate": 2019041,"remark": "","picPath": "http://fuss10.elemecdn.com//3/59/b15c3181384bfcc0fa9257910e74djpeg.jpeg","unit": ""}

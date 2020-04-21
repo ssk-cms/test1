@@ -1,0 +1,1 @@
+100001|1|1|2|{"memberId":"member1903270000190327103232","orderType":"02","orderPartition": "4"}

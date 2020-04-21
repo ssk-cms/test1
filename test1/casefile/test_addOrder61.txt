@@ -1,0 +1,1 @@
+1000001|1|{"memberId": "member1903270000190327103232","shopId": "91649","couponId": "taskReward1904260000190426172330","trePartition": 4,"merchantId": "ME1904010002190401155416","shopName": "艾比客","merchantName": "dawsad","payType": "02","shopPartition": 340400,"orderDetailList": [{"goodsId": "10030181","goodsCount": 2}, {"goodsId": "10030479","goodsCount": 2}]}

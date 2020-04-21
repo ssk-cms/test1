@@ -1,0 +1,1 @@
+100600|1|{"shopId":"100600", "taskContent":"会员测试任务，消费满600即可获得免单券一张","presetAmount":500,"rewardType":"1","reward":{"rewardName":"coco奶茶优惠劵","picPath":"http://13k2jlkj.23jl2jk","rule":"8","rangeType":"02","rangeContent":"goods132829382,goods23isidj023","effectiveDate":"15","remark":"111222333"}}

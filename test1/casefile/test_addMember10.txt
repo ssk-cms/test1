@@ -1,0 +1,1 @@
+1101002|1|{"openId": "1101002","unionId": "wer7544tg5yrew","mobile": 13335544568,"username": "322345",  "memberName": "测试1234","picPath": "www.baidu.com" }

@@ -1,0 +1,1 @@
+1101000|1|{"id": "1101001","openId": "33442","unionId": "wer7544tg5yrew","username": "322345", "memberName": "测试1234"}

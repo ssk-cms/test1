@@ -1,0 +1,1 @@
+100001|1|{"receiptId":"member1903270000190327103232","taskId":"task1904220001190422190936","memberId":"1101000","region":"230103010","memberInfo":"{nickName:'xc','picPath':'wlsoswosjdkla'}"}

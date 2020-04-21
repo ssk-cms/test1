@@ -1,0 +1,1 @@
+member1903270000190327103232|123|1|10|{"longitude":"126.65844","latitude":"45.788818","shopIndustry":"001","rewardType":"0302","regionDetail":"230103010","isTest":"1"}

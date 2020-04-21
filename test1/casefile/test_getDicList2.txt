@@ -1,0 +1,4 @@
+1101001007|1|{"dicType": "type1"}
+1101001007|1|{"dicType": "type1"}
+1101001007|1|{"dicType": "type1"}
+1101001007|1|{"dicType": "type1"}

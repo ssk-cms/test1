@@ -1,0 +1,1 @@
+100001|asdf|1|10|{"memberId":"100000","taskRewardType":"0302"}

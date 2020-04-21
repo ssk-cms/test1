@@ -1,0 +1,1 @@
+1903270000190327103232|123|{"memberId":"member1903270000190327103232","shopId":"100600", "shopRegionDic":340400,"svPartition":340400,"industryType":"001","industryDetail":"001002"}
